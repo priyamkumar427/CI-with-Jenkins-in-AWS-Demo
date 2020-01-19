@@ -50,16 +50,11 @@
             </plugin>
         </plugins>
     </build>
-    <repositories>
+    <distributionManagement>
 <repository>
-<id>maven-releases</id>
-<name>maven-releases</name>
-<url>http://34.93.244.101:8081/repository/maven-releases/</url>
+<id>priyam-repo</id>
+<name>priyam-repo</name>
+<url>http://34.93.244.101:8081/repository/priyam-repo/</url>
 </repository>
-<repository>
-<id>maven-snapshots</id>
-<name>maven-snapshots</name>
-<url>http://34.93.244.101:8081/repository/maven-snapshots/</url>
-</repository>
-</repositories>
+</distributionManagement>
 </project>
