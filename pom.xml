@@ -57,8 +57,8 @@
 <url>http://34.93.244.101:8081/repository/priyam-repo/</url>
 </repository>
 <snapshotrepository>
-<id>snapshots</id>
-<name>snapshots</name>
+<id>snapshot</id>
+<name>snapshot</name>
 <url>http://34.93.244.101:8081/repository/maven-snapshots/</url>
 </snapshotrepository>        
 </distributionManagement>
