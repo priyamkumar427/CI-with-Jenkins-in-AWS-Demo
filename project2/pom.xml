@@ -7,7 +7,7 @@
         <version>1.0-RAMA</version>
     </parent>
 
-    <artifactId>project</artifactId>
+    <artifactId>project2</artifactId>
     <packaging>war</packaging>
     <name>Project</name>
  <dependencies>
